@@ -1,0 +1,58 @@
+Gitter is open source
+https://gitlab.com/gitlab-org/gitter/webapp/
+Block-breaking game in vim 8.0
+https://github.com/johngrib/vim-game-code-break
+What Is Space?
+http://nautil.us//issue/49/the-absurd/what-is-space?utm_source=Nautilus&utm_campaign=46ca5944ab-EMAIL_CAMPAIGN_2017_06_30&utm_medium=email&utm_term=0_dc96ec7a9d-46ca5944ab-60565561
+Show HN: Cpp_redis: C++11 Lightweight Redis client
+https://github.com/Cylix/cpp_redis
+California consumer groups allow CenturyLink to end dark fiber leasing
+http://www.tellusventure.com/blog/california-consumer-groups-allow-centurylink-to-end-dark-fiber-leasing/
+How People Use Bike-Share Spaces vs. Parking Spots
+https://www.citylab.com/transportation/2017/06/bike-share-dock-parking-space-citi-bike-new-york/531936/?utm_source=SFTwitter
+Show HN: Under the hood ReactJS
+https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/
+New studies of ancient concrete could teach us to do as the Romans did
+https://phys.org/news/2017-07-ancient-concrete-romans.html
+Myers Diff Algorithm – Code and Interactive Visualization
+http://blog.robertelder.org/diff-algorithm/
+More than a decade later, how original YouTube stars feel about the site
+https://arstechnica.com/features/2017/06/youtube-changed-my-life-a-pair-of-original-videostars-ponder-a-life-lived-online/
+Pruning spaces from strings quickly on ARM processors
+http://lemire.me/blog/2017/07/03/pruning-spaces-from-strings-quickly-on-arm-processors/
+Galois Theory for Beginners (2010) [pdf]
+http://www.math.jhu.edu/~smahanta/Teaching/Spring10/Stillwell.pdf
+Batteries that “drink” seawater could power long-range underwater vehicles
+http://news.mit.edu/2017/batteries-drink-seawater-long-range-autonomous-underwater-vehicles-0615
+Ask HN: Who is hiring? (July 2017)
+item?id=14688684
+From Shader Code to a Teraflop: How Shader Cores Work (2008) [pdf]
+http://s08.idav.ucdavis.edu/fatahalian-gpu-architecture.pdf
+The capital sharp S in now part of the official German orthography
+https://typography.guru/journal/the-capital-sharp-s-in-now-part-of-the-official-german-orthography-r53/
+Finance sites erroneously show Amazon, Apple, other stocks crashing
+http://www.marketwatch.com/story/finance-sites-erroneously-show-amazon-apple-other-stocks-crashing-2017-07-03
+Django vs. Flask
+https://www.git-pull.com/code_explorer/django-vs-flask.html
+Hackers are offering to sell the Medicare details of Australians
+http://www.news.com.au/technology/online/security/hackers-are-offering-to-sell-the-medicare-details-of-australians-on-the-dark-web-government-confirms/news-story/c475b1cbc963648c191a1eaceba4b12b
+Underhanded Solidity Coding Contest
+http://u.solidity.cc/
+Show HN: Artpip – 4k fine art for your desktop
+https://www.artpip.com
+Outsmarting the compiler: Short story about optimization
+http://dpzmick.com/2017/05/25/outsmarting-the-compiler/
+The Disruption Machine: What the gospel of innovation gets wrong (2014)
+http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine
+Linux 4.12 Released
+https://lkml.org/lkml/2017/7/2/164
+Show HN: Vecta.io - Team diagramming with an advanced SVG editor
+https://vecta.io
+Shedding Light on the “Black Box of Inappropriateness”
+https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/
+Show HN: Miso – A Haskell implementation of Elm
+https://github.com/dmjio/miso
+Windows 10 will use protected folders to thwart crypto ransomware
+https://www.helpnetsecurity.com/2017/07/03/windows-10-protect-ransomware/
+Let’s Encrypt in the spotlight
+https://dancvrcek.com/letsencrypt-spotlight/
